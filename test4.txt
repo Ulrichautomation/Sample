@@ -1,0 +1,14 @@
+ Volume in drive F is Binaries
+ Volume Serial Number is F0F9-F631
+
+ Directory of F:\DevOps\SampleApplicationProject
+
+07/26/2018  04:41 PM    <DIR>          .
+07/26/2018  04:41 PM    <DIR>          ..
+07/25/2018  11:16 AM             4,606 sample.war
+07/26/2018  11:32 AM               407 test1.txt
+07/26/2018  11:35 AM               457 test2.txt
+07/26/2018  04:38 PM               507 test3.txt
+07/26/2018  04:41 PM                 0 test4.txt
+               5 File(s)          5,977 bytes
+               2 Dir(s)  60,374,441,984 bytes free
